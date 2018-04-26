@@ -1,8 +1,8 @@
-# Ryan Black Resume Project
+# Ryan Black comb Final Project
 
 [Link to my Repo!](https://github.com/ryanjblack/project_final3_black_ryan)
 
-[Link to my Resume Online](https://blackjosephryan.com/project_final3_black_ryan)
+[Link to my Project Online](https://blackjosephryan.com/project_final3_black_ryan)
 
 [W3C Validator](https://validator.w3.org/unicorn/check?ucn_uri=blackjosephryan.com%2Fproject_final3_black_ryan%2F&ucn_task=conformance#)
 
