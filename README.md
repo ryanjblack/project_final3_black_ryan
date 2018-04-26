@@ -4,7 +4,7 @@
 
 [Link to my Project Online](http://www.blackjosephryan.com/project_final3_black_ryan)
 
-[W3C Validator](https://validator.w3.org/unicorn/check?ucn_uri=blackjosephryan.com%2Fproject_final3_black_ryan%2F&ucn_task=conformance#)
+[W3C Validator](https://validator.w3.org/unicorn/check?ucn_uri=www.blackjosephryan.com%2Fproject_final3_black_ryan%2F&ucn_task=conformance#)
 
 [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fblackjosephryan.com%2Fproject_final3_black_ryan%2F)
 
@@ -29,7 +29,7 @@ Otherwise :
 
 ## Comments
 
-I updated this assignment after the deadline to update for:
+I updated this assignment up to 2 hours after the deadline to update for:
     - Images of products
     - W3C Errors
     - README updates
