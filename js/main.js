@@ -1,4 +1,4 @@
-// Javascript Functionality
+// Javascript Functionality after submitting contact form
 document.getElementById('submit').addEventListener('click', function () {
     document.getElementById('demo').innerHTML = 'Thanks for your submission!';
 });

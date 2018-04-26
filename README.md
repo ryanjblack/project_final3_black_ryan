@@ -29,7 +29,8 @@ Otherwise :
 
 ## Comments
 
-I updated this assignment up to 2 hours after the deadline to update for:
+I updated this assignment for 2 hours 58 minutes after the deadline to update for:
     - Images of products
+    - JS Event Listeners
     - W3C Errors
     - README updates
