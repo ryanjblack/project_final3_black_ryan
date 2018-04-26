@@ -160,7 +160,7 @@ button,
     display: inline-block;
     background-color: #222222;
     color: #ffffff;
-    border: 0;
+    width: 270px;
     cursor: pointer;
     outline: 0;
 }
@@ -244,13 +244,20 @@ ul.actions li:first-child {
 }
 
 /* Nav */
-#nav a {
+#nav a,
+#social a {
     position: relative;
     display: inline-block;
     color: #2c2726;
     width: 1em;
     height: 1em;
     line-height: 0.9em;
+}
+
+#social a {
+    font-size: 2.5em;
+    margin-top: 1em;
+    text-align: center;
 }
 
 /* Panels */
@@ -417,24 +424,28 @@ footer .copyright li:first-child::before {
     }
 
     /* Nav */
-    #nav {
+    #nav,
+    #nav2 {
         text-align: center;
         height: 4.25em;
         cursor: default;
     }
 
-    #nav a {
+    #nav a,
+    #nav2 a {
         font-size: 2.5em;
         margin: 0 0.25em 0 0.25em;
         opacity: 0.35;
         outline: 0;
     }
 
-    #nav a::before {
+    #nav a::before,
+    #nav2 a::before {
         font-size: 0.8em;
     }
 
-    #nav a::after {
+    #nav a::after,
+    #nav2 a::after {
         content: '';
         display: block;
         position: absolute;
@@ -446,7 +457,8 @@ footer .copyright li:first-child::before {
         border-right: solid 0.5em transparent;
     }
 
-    #nav a span {
+    #nav a span,
+    #nav2 a span {
         display: block;
         position: absolute;
         background: #222222;
@@ -461,6 +473,7 @@ footer .copyright li:first-child::before {
         margin-left: -2.75em;
     }
 
+    #nav a span::after,
     #nav a span::after {
         content: '';
         display: block;
@@ -473,19 +486,23 @@ footer .copyright li:first-child::before {
         border-right: solid 0.6em transparent;
     }
 
-    #nav a:hover {
+    #nav a:hover,
+    #nav2 a:hover {
         opacity: 1;
     }
 
-    #nav a:hover span {
+    #nav a:hover span,
+    #nav2 a:hover span {
         opacity: 1;
     }
 
-    #nav a.active {
+    #nav a.active,
+    #nav2 a.active {
         opacity: 1;
     }
 
-    #nav a.active::after {
+    #nav a.active::after,
+    #nav2 a.active::after {
         border-bottom-width: 0.5em;
     }
 
@@ -659,12 +676,14 @@ footer .copyright li:first-child::before {
     }
 
     /* Nav */
-    #nav {
+    #nav,
+    #nav2 {
         text-align: center;
         margin: 6px 0 8px 0;
     }
 
-    #nav a {
+    #nav a,
+    #nav2 a {
         font-size: 2em;
         opacity: 0.5;
         outline: 0;
@@ -674,11 +693,13 @@ footer .copyright li:first-child::before {
         margin: 0 0.25em 0 0.25em;
     }
 
-    #nav a:active {
+    #nav a:active,
+    #nav2 a:active {
         opacity: 1;
     }
 
-    #nav a span {
+    #nav a span,
+    #nav2 a span {
         display: none;
     }
 
