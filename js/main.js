@@ -1,3 +1,8 @@
+// Javascript Functionality
+document.getElementById('submit').addEventListener('click', function () {
+    document.getElementById('demo').innerHTML = 'Thanks for your submission!';
+});
+
 // Animated Page Open
 
 $(document).ready(function () {
