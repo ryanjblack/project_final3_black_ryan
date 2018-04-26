@@ -63,8 +63,6 @@ a {
 *,
 *::before,
 *::after {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
@@ -242,22 +240,6 @@ select {
     margin-bottom: 10px;
 }
 
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-    padding-left: 10px;
-}
-
-::-moz-placeholder { /* Firefox 19+ */
-    padding-left: 10px;
-}
-
-:-ms-input-placeholder { /* IE 10+ */
-    padding-left: 10px;
-}
-
-:-moz-placeholder { /* Firefox 18- */
-    padding-left: 10px;
-}
-
 .buttoncenter {
     text-align: center;
 }
@@ -295,8 +277,6 @@ ul.actions li:first-child {
 }
 
 .icon::before {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
