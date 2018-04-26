@@ -216,6 +216,7 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     color: #2f2e2b;
+    background: #eaaf39;
 }
 
 .inline,
