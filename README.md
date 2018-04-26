@@ -2,7 +2,7 @@
 
 [Link to my Repo!](https://github.com/ryanjblack/project_final3_black_ryan)
 
-[Link to my Project Online](https://www.blackjosephryan.com/project_final3_black_ryan)
+[Link to my Project Online](http://www.blackjosephryan.com/project_final3_black_ryan)
 
 [W3C Validator](https://validator.w3.org/unicorn/check?ucn_uri=blackjosephryan.com%2Fproject_final3_black_ryan%2F&ucn_task=conformance#)
 
@@ -28,3 +28,8 @@ Otherwise :
 > I reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
+
+I updated this assignment after the deadline to update for:
+    - Images of products
+    - W3C Errors
+    - README updates
