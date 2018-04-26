@@ -12,13 +12,13 @@
 
 Stuff I used on this project:
 
-- [Smooth Scroll - CSS Tricks](http://www.chartjs.org/)
+- [Smooth Scroll - CSS Tricks](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
-- [animsition - Page loading plugin](http://vodkabears.github.io/vide/) l
+- [animsition - Page loading plugin](http://git.blivesta.com/animsition/)
 
-- [skel - viewport plugin + image gallery](http://ianlunn.github.io/Hover/)
+- [skel - viewport plugin + image gallery](html5up.net)
 
-- [FlexBox Models](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [FlexBox Models](https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/)
 
 Otherwise :
 > “I did not use any resources outside of the lectures and my notes on this assignment."
