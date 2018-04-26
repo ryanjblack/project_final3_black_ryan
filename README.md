@@ -1,8 +1,8 @@
 # Ryan Black Resume Project
 
-[Link to my Repo!](https://github.com/ryanjblack/project_resume_black_ryan)
+[Link to my Repo!](https://github.com/ryanjblack/project_final3_black_ryan)
 
-[Link to my Resume Online](https://blackjosephryan.com/project_resume_black_ryan)
+[Link to my Resume Online](https://blackjosephryan.com/project_final3_black_ryan)
 
 [W3C Validator](https://validator.w3.org/unicorn/check?ucn_uri=blackjosephryan.com%2Fproject_resume_black_ryan%2F&ucn_task=conformance#)
 
@@ -30,5 +30,3 @@ Otherwise :
 > I reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
-
-I was glad to see all of the skills we have been working on come to a head with this assignment. If we did not go over js and jQuery at the length that we did I would have been lost trying to initialize, configure and finish using the plugins that I used on this assignment.
